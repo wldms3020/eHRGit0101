@@ -36,10 +36,16 @@
 ```
 
 ```python
-print "그만해"
+print "좋은 아침"
 ```
 
 ```javascript
 var date = "2020/04/07";
-date.log = "너에게로 초대";
+date.log = "초대합니다";
 ```
+
+
+가로선
+---
+***
+----

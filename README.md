@@ -54,4 +54,4 @@ date.log = "초대합니다";
 ```[링크테스트](url)
 ```
 
-[Naver](www.naver.com)
+[Naver](https://www.naver.com/) "설명"

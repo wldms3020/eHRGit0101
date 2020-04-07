@@ -55,4 +55,4 @@ date.log = "초대합니다";
 [Naver](https://www.naver.com/) "설명"
 ```
 
-[Naver](https://www.naver.com/) "설명"
+[Naver](https://www.naver.com/)

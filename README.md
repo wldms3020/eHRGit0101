@@ -52,7 +52,7 @@ date.log = "초대합니다";
 
 하이퍼링크
 ```[링크테스트](url)
-[Naver](https://www.naver.com/) "설명"
+[Naver](https://www.naver.com/ "설명")
 ```
 
-[Naver](https://www.naver.com/)
+[Naver](https://www.naver.com/ "설명설명")

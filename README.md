@@ -35,6 +35,11 @@
 코드 내용
 ```
 
-```
+```python
 print "그만해"
+```
+
+```javascript
+var date = "2020/04/07";
+date.log = "너에게로 초대";
 ```

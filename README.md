@@ -64,4 +64,4 @@ __텍스트 강조__
 
 이미지
 ![](url, "이미지 설명")
-![튤립](https://github.com/wldms3020/eHRGit0101/blob/master/eHRGit0101/src/eHRGit0101/cat.jpg, "이미지 설명")
+![튤립](github.com/wldms3020/eHRGit0101/blob/master/eHRGit0101/src/eHRGit0101/cat.jpg, "이미지 설명")
